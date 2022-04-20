@@ -1,0 +1,20 @@
+{
+  "name": "alpha-capture_the_flag",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc --build",
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/mocha": "^9.1.0",
+    "@types/node": "^17.0.23",
+    "@types/screeps-arena": "^0.0.1",
+    "chai": "^4.3.6",
+    "mocha": "^9.2.2",
+    "typescript": "^4.6.3"
+  }
+}
